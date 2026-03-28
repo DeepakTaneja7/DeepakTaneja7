@@ -13,7 +13,7 @@ Hey there! I'm an Information Technology undergraduate (B.Tech) at J.C. Bose Uni
 I enjoy tackling algorithmic challenges in **C++** and building seamless, full-stack web architectures with **JavaScript**. 
 
 **🚀 Tools & Technologies I Use:**
-* **Backend & Databases:** Node.js, Express.js, SQL, MySQL Workbench
+* **Backend & Databases:** Node.js, Express.js,Ejs, SQL, MySQL Workbench
 * **Frontend:** JavaScript (ES6+), HTML5, CSS3
 * **Programming Languages:** C++, JavaScript
 * **Tools & Platforms:** Postman, Git, GitHub, VS Code
