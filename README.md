@@ -24,7 +24,6 @@ I enjoy tackling algorithmic challenges in **C++** and building seamless, full-s
 
 ### 📊 GitHub Stats:
 <p align="left">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakTaneja7&theme=tokyonight" alt="Deepak's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakTaneja7&theme=tokyonight&v=1" alt="Deepak's GitHub Streak" />
 </p>
 
