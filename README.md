@@ -22,8 +22,5 @@ I enjoy tackling algorithmic challenges in **C++** and building seamless, full-s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-taneja-2619b8302)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaktaneja165@gmail.com)
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakTaneja7&theme=tokyonight&v=1" alt="Deepak's GitHub Streak" />
-</p>
+
 
